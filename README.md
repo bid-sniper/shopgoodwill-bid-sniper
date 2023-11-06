@@ -5,15 +5,15 @@
 :-------------------------:|:-------------------------:
 [Windows](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-windows.zip)             |  [Mac](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
 ### Features
-- Snipe multiple auctions simultaneously on ShopGoodwill.com at the last second
-- Never reveal your password to us, this runs on your own computer, not a service
-- Minimize to System Tray for leaving running in the background without windows
-- Organize and schedule all your bids in one workflow like a true professional
-- Check the status of your snipes with the built-in snipe status indicators
-- ShopGoodwill.com website embedded inside for adding snipes quicker natively
-- Sniper themed sound effects built-in for a greator experience
-- Animated, full screen, flexible GUI designed for ease of use
-- Supports all operating systems: Windows, Mac and Linux
+- Snipe multiple auctions simultaneously on ShopGoodwill.com at the last second(s).
+- Never reveal your password to us, this runs on your own computer, not a service.
+- Minimize to System Tray for leaving running in the background without windows.
+- Organize and schedule all your bids in one workflow like a true professional.
+- Check the status of your snipes with the built-in snipe status indicators.
+- ShopGoodwill.com website embedded inside for adding snipes quicker natively.
+- Sniper themed sound effects built-in for a greator experience.
+- Animated, full screen, flexible GUI designed for ease of use.
+- Supports all operating systems: Windows, Mac and Linux.
 
 The ShopGoodwill Sniper is a sniping tool for use with the ShopGoodwill.com website. Snipe all your auctions simultaneously at the last second on ShopGoodwill.com with this bidding software. Organize and schedule all your bids in one workplace like a real professional. Never reveal your password to us, this software runs on your own computer, unlike others this is not a service, this is an actual complete auction sniper software. Never miss another auction, Minimize to System Tray, for running in background.
 ##### Privacy
