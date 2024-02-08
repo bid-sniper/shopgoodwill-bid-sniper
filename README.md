@@ -6,7 +6,7 @@
 [Windows](https://apps.microsoft.com/detail/9NLHNKNJM66J)             |  [Mac](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
 ### Features
 - ShopGoodwill bid sniper.
-- Snipe multiple auctions simultaneously on ShopGoodwill.com at the last second(s).
+- Snipe multiple auctions simultaneously on ShopGoodwill at the last second(s).
 - Never reveal your password to us, this runs on your own computer, not a service.
 - Minimize to System Tray for leaving running in the background without windows.
 - Organize and schedule all your bids in one workflow like a true professional.
