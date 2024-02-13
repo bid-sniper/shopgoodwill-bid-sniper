@@ -1,7 +1,7 @@
 # ShopGoodwill Auction Sniper
-![ShopGoodwill Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/shopgoodwillsniper2.png?raw=true)
+![ShopGoodwill Auction Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/shopgoodwillsniper2.png?raw=true)
 ## Download
-[![ShopGoodwill Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://apps.microsoft.com/detail/9NLHNKNJM66J)  |  [![ShopGoodwill Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
+[![ShopGoodwill Auction Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://apps.microsoft.com/detail/9NLHNKNJM66J)  |  [![ShopGoodwill Auction Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
 :-------------------------:|:-------------------------:
 [Windows](https://apps.microsoft.com/detail/9NLHNKNJM66J)             |  [Mac](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
 ### Features
@@ -15,6 +15,6 @@
 - Animated, full screen, flexible GUI designed for ease of use.
 - Supports all operating systems: Windows, Mac and Linux.
 
-The ShopGoodwill Bid Sniper is a sniping tool for use with the ShopGoodwill website. Snipe all your auctions simultaneously at the last second on ShopGoodwill with this bidding software. Organize and schedule all your bids in one workplace like a real professional. Never reveal your password to us, this software runs on your own computer, unlike others this is not a service, this is an actual complete auction sniper software. Never miss another auction, Minimize to System Tray, for running in background.
+The ShopGoodwill Auction Sniper is a sniping tool for use with the ShopGoodwill website. Snipe all your auctions simultaneously at the last second on ShopGoodwill with this bidding software. Organize and schedule all your bids in one workplace like a real professional. Never reveal your password to us, this software runs on your own computer, unlike others this is not a service, this is an actual complete auction sniper software. Never miss another auction, Minimize to System Tray, for running in background.
 ##### Privacy
 We do not collect any information at all simply because we are not interested in storing your information which would increase our costs and liability, therefore we are only interested in developing high quality software for anyone to use, having said that we are not sure why the rest of the world doesn't also not collect info?
