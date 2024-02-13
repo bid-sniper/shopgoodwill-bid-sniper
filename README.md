@@ -1,4 +1,4 @@
-# ShopGoodwill Bid Sniper
+# ShopGoodwill Auction Sniper
 ![ShopGoodwill Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/shopgoodwillsniper2.png?raw=true)
 ## Download
 [![ShopGoodwill Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://apps.microsoft.com/detail/9NLHNKNJM66J)  |  [![ShopGoodwill Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
