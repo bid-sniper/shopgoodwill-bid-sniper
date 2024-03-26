@@ -1,9 +1,9 @@
 # ShopGoodwill Auction Sniper
 ![ShopGoodwill Auction Sniper](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/shopgoodwillsniper2.png?raw=true)
 ## Download
-[![ShopGoodwill Auction Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://apps.microsoft.com/detail/9NLHNKNJM66J)  |  [![ShopGoodwill Auction Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
+[![ShopGoodwill Auction Sniper Windows](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-windows.png?raw=true)](https://apps.microsoft.com/detail/9NLHNKNJM66J)  |  [![ShopGoodwill Auction Sniper Mac](https://github.com/Auction-Sniper/ShopGoodwill/blob/main/images/auctionsniper-mac.png?raw=true)](https://github.com/software-app-download/windows-mac/blob/main/shopgoodwill-auction-sniper-mac.zip)
 :-------------------------:|:-------------------------:
-[Windows](https://apps.microsoft.com/detail/9NLHNKNJM66J)             |  [Mac](https://github.com/appdownloads/software/raw/main/shopgoodwill-sniper-mac.zip)
+[Windows](https://apps.microsoft.com/detail/9NLHNKNJM66J)             |  [Mac](https://github.com/software-app-download/windows-mac/blob/main/shopgoodwill-auction-sniper-mac.zip)
 ### Features
 - Snipe multiple auctions simultaneously on ShopGoodwill at the last second(s).
 - Never reveal your password to us, this runs on your own computer, not a service.
